@@ -1,0 +1,13 @@
+Strength
+Dexterity
+Wisdom
+Consitution
+Charisma
+Animal Handling
+Athletics
+Deception
+Insight
+Medicine
+Perception
+Sleight of Hand
+Survival
